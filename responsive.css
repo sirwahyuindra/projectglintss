@@ -1,0 +1,8 @@
+@media (max-width: 670px) {
+    .section {
+        width: 50%;
+    }
+}
+footer {
+    text-align: center;
+}
